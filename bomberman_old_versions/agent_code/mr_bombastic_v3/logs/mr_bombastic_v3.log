@@ -1,0 +1,6 @@
+2021-03-27 18:41:12,574 [mr_bombastic_v3_wrapper] DEBUG: Calling setup on callback.
+2021-03-27 18:41:12,574 [mr_bombastic_v3_code] INFO: Loading model from saved state.
+2021-03-27 18:41:12,574 [mr_bombastic_v3_wrapper] DEBUG: Got result from callback#setup in 0.000s.
+2021-03-27 18:41:12,676 [mr_bombastic_v3_wrapper] DEBUG: Calling act on callback.
+2021-03-27 18:41:12,676 [mr_bombastic_v3_code] DEBUG: Querying model for action.
+2021-03-27 18:41:12,677 [mr_bombastic_v3_wrapper] ERROR: An exception occurred while calling act: operands could not be broadcast together with shapes (0,) (2,) 
